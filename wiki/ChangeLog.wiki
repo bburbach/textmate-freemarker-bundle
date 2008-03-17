@@ -1,0 +1,6 @@
+#labels Featured
+= Version 1.0 =
+
+ * Very minimal Language definition that mostly plays well with HTML, but not completely.
+ * A few useful snippets for Freemarker tags.
+ * One simple HTML template.

@@ -1,4 +1,9 @@
 #labels Featured
+= Version 1.1 =
+
+ * Added several more snippets for directives: if, else, list, compress, etc.
+ * Organized the bundle menu
+
 = Version 1.0 =
 
  * Very minimal Language definition that mostly plays well with HTML, but not completely.

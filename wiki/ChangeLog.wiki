@@ -1,4 +1,9 @@
 #labels Featured
+= Version 1.2 =
+
+ * Last version was missing many of the snippets I thought I had included.  Sorry!
+ * Including: if, list, assign, local, compress, compress single_line, and macro.
+
 = Version 1.1 =
 
  * Added several more snippets for directives: if, else, list, compress, etc.

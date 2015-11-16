@@ -1,0 +1,3 @@
+**This project has moved** [to Github](https://github.com/briancavalier/textmate-freemarker-bundle) and will be maintained there.  No new updates will be committed to Google code.
+
+This is a very simple [TextMate](http://www.macromates.com) Bundle to help with editing [FreeMarker](http://freemarker.org/) templates.  It provides a (still incomplete) language definition, and some basic snippets, including some for Spring macros.

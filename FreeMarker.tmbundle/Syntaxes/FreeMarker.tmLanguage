@@ -71,6 +71,7 @@
 			</dict>
 			<key>match</key>
 			<string>(\&lt;(#|@))(\w+(\.\w+)*)((\s+[^&gt;]+)*?)\s*(\/?\&gt;)</string>
+			<string>"('.*')|(\".*\")"</string>
 			<key>name</key>
 			<string>meta.function.ftl</string>
 		</dict>
